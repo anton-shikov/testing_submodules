@@ -28,3 +28,6 @@
 [submodule "submodules/Prodigal"]
 	path = submodules/Prodigal
 	url = https://github.com/hyattpd/Prodigal
+[submodule "submodules/FastQC"]
+	path = submodules/FastQC
+	url = https://github.com/golharam/FastQC
