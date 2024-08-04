@@ -1,0 +1,30 @@
+[submodule "submodules/fastp"]
+	path = submodules/fastp
+	url = https://github.com/OpenGene/fastp
+[submodule "submodules/spades"]
+	path = submodules/spades
+	url = https://github.com/ablab/spades
+[submodule "submodules/quast"]
+	path = submodules/quast
+	url = https://github.com/ablab/quast
+[submodule "submodules/RabbitQCPlus"]
+	path = submodules/RabbitQCPlus
+	url = https://github.com/RabbitBio/RabbitQCPlus
+[submodule "submodules/Flye"]
+	path = submodules/Flye
+	url = https://github.com/fenderglass/Flye
+[submodule "submodules/samtools"]
+	path = submodules/samtools
+	url = https://github.com/samtools/samtools
+[submodule "submodules/bwa"]
+	path = submodules/bwa
+	url = https://github.com/lh3/bwa
+[submodule "submodules/pilon"]
+	path = submodules/pilon
+	url = https://github.com/broadinstitute/pilon
+[submodule "submodules/FastANI"]
+	path = submodules/FastANI
+	url = https://github.com/ParBLiSS/FastANI
+[submodule "submodules/Prodigal"]
+	path = submodules/Prodigal
+	url = https://github.com/hyattpd/Prodigal
