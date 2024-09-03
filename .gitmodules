@@ -10,9 +10,6 @@
 [submodule "submodules/RabbitQCPlus"]
 	path = submodules/RabbitQCPlus
 	url = https://github.com/RabbitBio/RabbitQCPlus
-[submodule "submodules/Flye"]
-	path = submodules/Flye
-	url = https://github.com/fenderglass/Flye
 [submodule "submodules/samtools"]
 	path = submodules/samtools
 	url = https://github.com/samtools/samtools
@@ -34,3 +31,6 @@
 [submodule "submodules/cry_processor"]
 	path = submodules/cry_processor
 	url = https://github.com/lab7arriam/cry_processor
+[submodule "submodules/Flye"]
+	path = submodules/Flye
+	url = https://github.com/fenderglass/Flye
