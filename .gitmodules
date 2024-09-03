@@ -31,3 +31,6 @@
 [submodule "submodules/FastQC"]
 	path = submodules/FastQC
 	url = https://github.com/golharam/FastQC
+[submodule "submodules/cry_processor"]
+	path = submodules/cry_processor
+	url = https://github.com/lab7arriam/cry_processor
