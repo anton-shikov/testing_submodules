@@ -34,9 +34,3 @@
 [submodule "submodules/Flye"]
 	path = submodules/Flye
 	url = https://github.com/fenderglass/Flye
-[submodule "MMseqs2"]
-	path = MMseqs2
-	url = https://github.com/soedinglab/MMseqs2
-[submodule "BTyper3"]
-	path = BTyper3
-	url = https://github.com/lmc297/BTyper3
