@@ -37,3 +37,6 @@
 [submodule "submodules/MMseqs2"]
 	path = submodules/MMseqs2
 	url = https://github.com/soedinglab/MMseqs2
+[submodule "submodules/prokka"]
+	path = submodules/prokka
+	url = https://github.com/tseemann/prokka
