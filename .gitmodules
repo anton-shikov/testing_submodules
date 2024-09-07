@@ -37,6 +37,3 @@
 [submodule "submodules/MMseqs2"]
 	path = submodules/MMseqs2
 	url = https://github.com/soedinglab/MMseqs2
-[submodule "submodules/BTyper3"]
-	path = submodules/BTyper3
-	url = https://github.com/lmc297/BTyper3
