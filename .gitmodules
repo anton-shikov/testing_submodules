@@ -43,3 +43,6 @@
 [submodule "submodules/BTyper3"]
 	path = submodules/BTyper3
 	url = https://github.com/lmc297/BTyper3
+[submodule "submodules/IDOPS"]
+	path = submodules/IDOPS
+	url = https://github.com/GAMB-GO/IDOPS
