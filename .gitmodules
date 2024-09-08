@@ -40,3 +40,6 @@
 [submodule "submodules/prokka"]
 	path = submodules/prokka
 	url = https://github.com/tseemann/prokka
+[submodule "submodules/BTyper3"]
+	path = submodules/BTyper3
+	url = https://github.com/lmc297/BTyper3
