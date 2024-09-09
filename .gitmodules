@@ -46,3 +46,6 @@
 [submodule "submodules/IDOPS"]
 	path = submodules/IDOPS
 	url = https://github.com/GAMB-GO/IDOPS
+[submodule "submodules/PlasmidHunter"]
+	path = submodules/PlasmidHunter
+	url = https://github.com/tianrenmaogithub/PlasmidHunter
